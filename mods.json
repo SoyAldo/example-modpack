@@ -1,25 +1,47 @@
 {
   "mods": [
     {
-      "name": "Just Enough Items",
-      "filename": "jei-1.20.1-forge-15.2.0.27.jar",
-      "url": "https://tu-servidor.com/modpack/mods/jei-1.20.1-forge-15.2.0.27.jar",
-      "size": 1076587,
-      "sha1": "abc123...",
+      "name": "JourneyMap",
+      "filename": "journeymap-1.20.1-5.9.18-neoforge.jar",
+      "url": "https://soyaldo.github.io/example-modpack/mods/journeymap-1.20.1-5.9.18-neoforge.jar",
+      "size": 7137794,
       "required": true
     },
     {
-      "name": "JourneyMap",
-      "filename": "journeymap-1.20.1-5.9.18-forge.jar",
-      "url": "https://tu-servidor.com/modpack/mods/journeymap-1.20.1-5.9.18-forge.jar",
-      "size": 2048576,
+      "name": "Sophisticated Backpacks",
+      "filename": "sophisticatedbackpacks-1.20.1-3.24.35.1675",
+      "url": "https://soyaldo.github.io/example-modpack/mods/sophisticatedbackpacks-1.20.1-3.24.35.1675.jar",
+      "size": 7137794,
+      "required": true
+    },
+    {
+      "name": "Sophisticated Core",
+      "filename": "sophisticatedcore-1.20.1-1.3.21.1676",
+      "url": "https://soyaldo.github.io/example-modpack/mods/sophisticatedcore-1.20.1-1.3.21.1676.jar",
+      "size": 7137794,
       "required": true
     }
   ],
   "configFiles": [
     {
-      "path": "config/jei/jei-client.ini",
-      "url": "https://tu-servidor.com/modpack/config/jei/jei-client.ini"
+      "path": "config/fml.toml",
+      "url": "https://soyaldo.github.io/example-modpack/config/fml.toml"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "url": "https://soyaldo.github.io/example-modpack/config/forge-client.toml"
+    },
+    {
+      "path": "config/sophisticatedbackpacks-common.tomll",
+      "url": "https://soyaldo.github.io/example-modpack/config/sophisticatedbackpacks-common.toml"
+    },
+    {
+      "path": "config/sophisticatedcore-client.toml",
+      "url": "https://soyaldo.github.io/example-modpack/config/sophisticatedcore-client.toml"
+    },
+    {
+      "path": "config/sophisticatedcore-common.toml",
+      "url": "https://soyaldo.github.io/example-modpack/config/sophisticatedcore-common.toml"
     }
   ]
 }
