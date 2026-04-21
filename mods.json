@@ -1,24 +1,17 @@
 {
   "mods": [
     {
+      "name": "JEI",
+      "filename": "jei-1.20.6-neoforge-18.0.0.66.jar",
+      "url": "https://soyaldo.github.io/example-modpack/mods/jei-1.20.6-neoforge-18.0.0.66.jar",
+      "size": 1075119,
+      "required": true
+    },
+    {
       "name": "JourneyMap",
-      "filename": "journeymap-1.20.1-5.9.18-neoforge.jar",
-      "url": "https://soyaldo.github.io/example-modpack/mods/journeymap-1.20.1-5.9.18-neoforge.jar",
-      "size": 7137794,
-      "required": true
-    },
-    {
-      "name": "Sophisticated Backpacks",
-      "filename": "sophisticatedbackpacks-1.20.1-3.24.35.1675.jar",
-      "url": "https://soyaldo.github.io/example-modpack/mods/sophisticatedbackpacks-1.20.1-3.24.35.1675.jar",
-      "size": 1018674,
-      "required": true
-    },
-    {
-      "name": "Sophisticated Core",
-      "filename": "sophisticatedcore-1.20.1-1.3.21.1676.jar",
-      "url": "https://soyaldo.github.io/example-modpack/mods/sophisticatedcore-1.20.1-1.3.21.1676.jar",
-      "size": 1435469,
+      "filename": "journeymap-1.20.6-5.10.0-neoforge.jar",
+      "url": "https://soyaldo.github.io/example-modpack/mods/journeymap-1.20.6-5.10.0-neoforge.jar",
+      "size": 6988562,
       "required": true
     }
   ],
