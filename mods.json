@@ -369,14 +369,6 @@
       "required": true
     },
     {
-      "name": "Clutternomore",
-      "filename": "clutternomore-1.1.6+1.20.1-forge.jar",
-      "url": "https://soyaldo.github.io/example-modpack/mods/clutternomore-1.1.6%2B1.20.1-forge.jar",
-      "size": 1060320,
-      "sha1": "527223792c9432ed62ec5bdcd592d78decfb4af9",
-      "required": true
-    },
-    {
       "name": "CodeChickenLib",
       "filename": "CodeChickenLib-1.20.1-4.4.0.516-universal.jar",
       "url": "https://soyaldo.github.io/example-modpack/mods/CodeChickenLib-1.20.1-4.4.0.516-universal.jar",
