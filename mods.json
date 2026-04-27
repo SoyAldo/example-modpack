@@ -289,6 +289,14 @@
       "required": true
     },
     {
+      "name": "CasinoCraft_1.20.1_v25.Jar",
+      "filename": "CasinoCraft_1.20.1_v25.jar",
+      "url": "https://soyaldo.github.io/example-modpack/mods/CasinoCraft_1.20.1_v25.jar",
+      "size": 2060409,
+      "sha1": "13df01ff1ea3472d63cf025a4a8ebcd9e15049aa",
+      "required": true
+    },
+    {
       "name": "Cataclysmspells_compat.Jar",
       "filename": "cataclysmspells_compat.jar",
       "url": "https://soyaldo.github.io/example-modpack/mods/cataclysmspells_compat.jar",
@@ -617,14 +625,6 @@
       "required": true
     },
     {
-      "name": "Fancymenu_forge_3.8.1_MC_1.20.1.Jar",
-      "filename": "fancymenu_forge_3.8.1_MC_1.20.1.jar",
-      "url": "https://soyaldo.github.io/example-modpack/mods/fancymenu_forge_3.8.1_MC_1.20.1.jar",
-      "size": 4472193,
-      "sha1": "1fef1d8ab0dc2dec116bc6d6cb6f789fd33b23b0",
-      "required": true
-    },
-    {
       "name": "FarmersDelight",
       "filename": "FarmersDelight-1.20.1-1.2.11a.jar",
       "url": "https://soyaldo.github.io/example-modpack/mods/FarmersDelight-1.20.1-1.2.11a.jar",
@@ -646,6 +646,14 @@
       "url": "https://soyaldo.github.io/example-modpack/mods/fastpaintings-1.20-1.2.7.jar",
       "size": 309400,
       "sha1": "036137a54b8f503794cf38296ff4c7fbf2e9d5cc",
+      "required": true
+    },
+    {
+      "name": "FazRoleplayClothes",
+      "filename": "FazRoleplayClothes-1.20.1-2.4.jar",
+      "url": "https://soyaldo.github.io/example-modpack/mods/FazRoleplayClothes-1.20.1-2.4.jar",
+      "size": 700041,
+      "sha1": "64ef59203d33efd35e7fb4ceb787d7543fb25ee0",
       "required": true
     },
     {
@@ -897,6 +905,14 @@
       "required": true
     },
     {
+      "name": "Lucky77_1.20.1_v04.Jar",
+      "filename": "Lucky77_1.20.1_v04.jar",
+      "url": "https://soyaldo.github.io/example-modpack/mods/Lucky77_1.20.1_v04.jar",
+      "size": 231682,
+      "sha1": "81993ad3dd053395283f5ad64f7330d531153c52",
+      "required": true
+    },
+    {
       "name": "L_Enders_Cataclysm",
       "filename": "L_Enders_Cataclysm-3.27-curios-fix.jar",
       "url": "https://soyaldo.github.io/example-modpack/mods/L_Enders_Cataclysm-3.27-curios-fix.jar",
@@ -1126,6 +1142,14 @@
       "url": "https://soyaldo.github.io/example-modpack/mods/oculus-mc1.20.1-1.8.0.jar",
       "size": 2851119,
       "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+      "required": true
+    },
+    {
+      "name": "Opf",
+      "filename": "opf-1.20.1.jar",
+      "url": "https://soyaldo.github.io/example-modpack/mods/opf-1.20.1.jar",
+      "size": 58548,
+      "sha1": "f95aa2c5c9d368b750ba8441a60fcad3a3e5851d",
       "required": true
     },
     {
@@ -1449,6 +1473,14 @@
       "required": true
     },
     {
+      "name": "Trashslot Forge",
+      "filename": "trashslot-forge-1.20.1-15.1.3.jar",
+      "url": "https://soyaldo.github.io/example-modpack/mods/trashslot-forge-1.20.1-15.1.3.jar",
+      "size": 117939,
+      "sha1": "16fa6a3e069a1ca53752b55d79bef87b463f2e60",
+      "required": true
+    },
+    {
       "name": "Twilightforest",
       "filename": "twilightforest-1.20.1-4.3.2508-universal.jar",
       "url": "https://soyaldo.github.io/example-modpack/mods/twilightforest-1.20.1-4.3.2508-universal.jar",
@@ -1556,8 +1588,8 @@
   "config": {
     "fileName": "configs.zip",
     "url": "https://soyaldo.github.io/example-modpack/configs.zip",
-    "size": 8291975,
-    "sha1": "daf92325c012be6909eb7035e8959ba979e03fc3",
+    "size": 347415,
+    "sha1": "daba10bae826f06f09cfdcab6552221416b59f47",
     "required": true
   },
   "others": [
@@ -1565,8 +1597,8 @@
       "fileName": "options.txt",
       "path": "./",
       "url": "https://soyaldo.github.io/example-modpack/others/options.txt",
-      "size": 16410,
-      "sha1": "8de85560cf6e870e3c4f608ae62d86d799df804a",
+      "size": 16616,
+      "sha1": "a9a422c54a8c6a9f0d4bfa538bd063c2fd6d09e4",
       "required": true
     },
     {
@@ -1599,6 +1631,22 @@
       "url": "https://soyaldo.github.io/example-modpack/others/resourcepacks/PureBDcraft%20CTM%20Transitions%20MC120.zip",
       "size": 52218,
       "sha1": "b247bf4d118b94f7d42abe2644b932b3fd4aa40b",
+      "required": true
+    },
+    {
+      "fileName": "servers.dat",
+      "path": "./",
+      "url": "https://soyaldo.github.io/example-modpack/others/servers.dat",
+      "size": 87,
+      "sha1": "2df720183ae5712c864e34fc68a8dd044acee041",
+      "required": true
+    },
+    {
+      "fileName": "servers.dat_old",
+      "path": "./",
+      "url": "https://soyaldo.github.io/example-modpack/others/servers.dat_old",
+      "size": 87,
+      "sha1": "2df720183ae5712c864e34fc68a8dd044acee041",
       "required": true
     },
     {
