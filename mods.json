@@ -489,14 +489,6 @@
       "required": true
     },
     {
-      "name": "Deeper_and_darker_to_cataclysm Withtools Forge",
-      "filename": "deeper_and_darker_to_cataclysm-withtools-forge-1.20.1.jar",
-      "url": "https://soyaldo.github.io/example-modpack/mods/deeper_and_darker_to_cataclysm-withtools-forge-1.20.1.jar",
-      "size": 12096,
-      "sha1": "cd197fcd920dffddbbdd928464a70af4dda075e6",
-      "required": true
-    },
-    {
       "name": "Dragonscalemod",
       "filename": "dragonscalemod-2.3-1.20.1.jar",
       "url": "https://soyaldo.github.io/example-modpack/mods/dragonscalemod-2.3-1.20.1.jar",
