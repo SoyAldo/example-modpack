@@ -369,14 +369,6 @@
       "required": true
     },
     {
-      "name": "Connector",
-      "filename": "Connector-1.0.0-beta.48+1.20.1.jar",
-      "url": "https://soyaldo.github.io/example-modpack/mods/Connector-1.0.0-beta.48%2B1.20.1.jar",
-      "size": 5043906,
-      "sha1": "23f4a45b2ea66548fddff299326cd56e2d9e5cf8",
-      "required": true
-    },
-    {
       "name": "Controlling Forge",
       "filename": "Controlling-forge-1.20.1-12.0.2.jar",
       "url": "https://soyaldo.github.io/example-modpack/mods/Controlling-forge-1.20.1-12.0.2.jar",
@@ -558,14 +550,6 @@
       "url": "https://soyaldo.github.io/example-modpack/mods/entity_texture_features_1.20.1-forge-7.1.jar",
       "size": 944851,
       "sha1": "e13ba95a0388d7d5b1f479e5bd7e2df78e4c4a23",
-      "required": true
-    },
-    {
-      "name": "Fabric Api",
-      "filename": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
-      "url": "https://soyaldo.github.io/example-modpack/mods/fabric-api-0.92.6%2B1.11.14%2B1.20.1.jar",
-      "size": 3065813,
-      "sha1": "285c22b2567b9fdf98ef9808eceb5557de9611d3",
       "required": true
     },
     {
@@ -1233,6 +1217,14 @@
       "required": true
     },
     {
+      "name": "Ruok Forge_1.20.1_Pre Release_6",
+      "filename": "ruok-forge_1.20.1_Pre-Release_6-1.7.4.jar",
+      "url": "https://soyaldo.github.io/example-modpack/mods/ruok-forge_1.20.1_Pre-Release_6-1.7.4.jar",
+      "size": 1050096,
+      "sha1": "210086567b4655520e79588df4ab6fa2741531d0",
+      "required": true
+    },
+    {
       "name": "Searchables Forge",
       "filename": "Searchables-forge-1.20.1-1.0.3.jar",
       "url": "https://soyaldo.github.io/example-modpack/mods/Searchables-forge-1.20.1-1.0.3.jar",
@@ -1508,8 +1500,8 @@
   "config": {
     "fileName": "configs.zip",
     "url": "https://soyaldo.github.io/example-modpack/configs.zip",
-    "size": 347415,
-    "sha1": "daba10bae826f06f09cfdcab6552221416b59f47",
+    "size": 350375,
+    "sha1": "8026544e256f62a37c57d5887450f3fb43a40323",
     "required": true
   },
   "others": [
@@ -1517,40 +1509,16 @@
       "fileName": "options.txt",
       "path": "./",
       "url": "https://soyaldo.github.io/example-modpack/others/options.txt",
-      "size": 16616,
-      "sha1": "a9a422c54a8c6a9f0d4bfa538bd063c2fd6d09e4",
+      "size": 16828,
+      "sha1": "da3bdd8881bd894564c6ba8b0f8e610c6453125c",
       "required": true
     },
     {
-      "fileName": "BDcraft Better Leaves MC120.zip",
-      "path": "./resourcepacks/",
-      "url": "https://soyaldo.github.io/example-modpack/others/resourcepacks/BDcraft%20Better%20Leaves%20MC120.zip",
-      "size": 33119,
-      "sha1": "44acf1aebdc04c31a0c4d7bad8db62fa53729ed5",
-      "required": true
-    },
-    {
-      "fileName": "BDcraft Font MC120.zip",
-      "path": "./resourcepacks/",
-      "url": "https://soyaldo.github.io/example-modpack/others/resourcepacks/BDcraft%20Font%20MC120.zip",
-      "size": 60600,
-      "sha1": "2089ef71677ea96344e7c214cbd5e49e198432a9",
-      "required": true
-    },
-    {
-      "fileName": "PureBDcraft  64x MC120.zip",
-      "path": "./resourcepacks/",
-      "url": "https://soyaldo.github.io/example-modpack/others/resourcepacks/PureBDcraft%20%2064x%20MC120.zip",
-      "size": 26509221,
-      "sha1": "1bf59178ee9dcd0cb578f7ea5d10fbdfb87a0387",
-      "required": true
-    },
-    {
-      "fileName": "PureBDcraft CTM Transitions MC120.zip",
-      "path": "./resourcepacks/",
-      "url": "https://soyaldo.github.io/example-modpack/others/resourcepacks/PureBDcraft%20CTM%20Transitions%20MC120.zip",
-      "size": 52218,
-      "sha1": "b247bf4d118b94f7d42abe2644b932b3fd4aa40b",
+      "fileName": "Aurora Fantasy.5.1.zip",
+      "path": "./shaderpacks/",
+      "url": "https://soyaldo.github.io/example-modpack/others/shaderpacks/Aurora%20Fantasy.5.1.zip",
+      "size": 544291,
+      "sha1": "1dfff674b2aeccb4f8b70082af84d2cf8ccab609",
       "required": true
     },
     {
