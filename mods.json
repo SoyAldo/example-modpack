@@ -1506,14 +1506,6 @@
   },
   "others": [
     {
-      "fileName": "options.txt",
-      "path": "./",
-      "url": "https://soyaldo.github.io/example-modpack/others/options.txt",
-      "size": 16828,
-      "sha1": "da3bdd8881bd894564c6ba8b0f8e610c6453125c",
-      "required": true
-    },
-    {
       "fileName": "Aurora Fantasy.5.1.zip",
       "path": "./shaderpacks/",
       "url": "https://soyaldo.github.io/example-modpack/others/shaderpacks/Aurora%20Fantasy.5.1.zip",
